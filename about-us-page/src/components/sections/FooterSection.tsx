@@ -99,8 +99,8 @@ const FooterSection: React.FC = () => {
           </div>
         </nav>
       </div>
-      <div className="absolute z-0 flex w-[1440px] items-center text-sm text-white font-medium text-center leading-[1.4] justify-between p-5 border-[rgba(25,25,25,1)] border-t right-0 bottom-0 max-md:max-w-full">
-        <p className="text-white self-stretch flex-1 shrink basis-[0%] my-auto max-md:max-w-full">
+      <div className="absolute z-0 bottom-0 left-0 w-full flex items-center justify-center border-t border-[rgba(25,25,25,1)] p-5">
+        <p className="text-white text-sm font-medium text-center leading-[1.4">
           Copywrite © 2025 VonTech Group. All Right Reserved.
         </p>
       </div>
